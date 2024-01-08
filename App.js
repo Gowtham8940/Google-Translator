@@ -878,7 +878,7 @@ export default function App() {
       <View>
         <TouchableOpacity style={styles.button}>
           <Text style={styles.buttonText} onPress={GetResult}>
-            Translate The Text
+            Translate your Text
           </Text>
         </TouchableOpacity>
       </View>
